@@ -1,0 +1,36 @@
+C:\Users\HP\source\repos\London Healthcare Centre\London Healthcare Centre\bin\Debug\netcoreapp2.1\London Healthcare Centre.deps.json
+C:\Users\HP\source\repos\London Healthcare Centre\London Healthcare Centre\bin\Debug\netcoreapp2.1\London Healthcare Centre.runtimeconfig.json
+C:\Users\HP\source\repos\London Healthcare Centre\London Healthcare Centre\bin\Debug\netcoreapp2.1\London Healthcare Centre.runtimeconfig.dev.json
+C:\Users\HP\source\repos\London Healthcare Centre\London Healthcare Centre\bin\Debug\netcoreapp2.1\London Healthcare Centre.dll
+C:\Users\HP\source\repos\London Healthcare Centre\London Healthcare Centre\bin\Debug\netcoreapp2.1\London Healthcare Centre.pdb
+C:\Users\HP\source\repos\London Healthcare Centre\London Healthcare Centre\obj\Debug\netcoreapp2.1\London Healthcare Centre.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\London Healthcare Centre\London Healthcare Centre\obj\Debug\netcoreapp2.1\London Healthcare Centre.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\London Healthcare Centre\London Healthcare Centre\obj\Debug\netcoreapp2.1\London Healthcare Centre.AssemblyInfo.cs
+C:\Users\HP\source\repos\London Healthcare Centre\London Healthcare Centre\obj\Debug\netcoreapp2.1\London Healthcare Centre.dll
+C:\Users\HP\source\repos\London Healthcare Centre\London Healthcare Centre\obj\Debug\netcoreapp2.1\London Healthcare Centre.pdb
+C:\Users\HP\source\repos\London Healthcare Centre\London Healthcare Centre\bin\Debug\netcoreapp2.1\MySql.Data.dll
+C:\Users\HP\source\repos\London Healthcare Centre\London Healthcare Centre\bin\Debug\netcoreapp2.1\Google.Protobuf.dll
+C:\Users\HP\source\repos\London Healthcare Centre\London Healthcare Centre\bin\Debug\netcoreapp2.1\MySql.Data.xml
+C:\Users\HP\source\repos\London Healthcare Centre\London Healthcare Centre\obj\Debug\netcoreapp2.1\London Healthcare Centre.csproj.CopyComplete
+C:\Users\HP\Desktop\Aprilwork\26\London Healthcare Centre\London Healthcare Centre\obj\Debug\netcoreapp2.1\London Healthcare Centre.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Aprilwork\26\London Healthcare Centre\London Healthcare Centre\obj\Debug\netcoreapp2.1\London Healthcare Centre.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Aprilwork\26\London Healthcare Centre\London Healthcare Centre\obj\Debug\netcoreapp2.1\London Healthcare Centre.AssemblyInfo.cs
+C:\Users\HP\Desktop\Aprilwork\26\London Healthcare Centre\London Healthcare Centre\obj\Debug\netcoreapp2.1\London Healthcare Centre.dll
+C:\Users\HP\Desktop\Aprilwork\26\London Healthcare Centre\London Healthcare Centre\obj\Debug\netcoreapp2.1\London Healthcare Centre.pdb
+C:\Users\HP\Desktop\Aprilwork\26\London Healthcare Centre\London Healthcare Centre\bin\Debug\netcoreapp2.1\London Healthcare Centre.deps.json
+C:\Users\HP\Desktop\Aprilwork\26\London Healthcare Centre\London Healthcare Centre\bin\Debug\netcoreapp2.1\London Healthcare Centre.runtimeconfig.json
+C:\Users\HP\Desktop\Aprilwork\26\London Healthcare Centre\London Healthcare Centre\bin\Debug\netcoreapp2.1\London Healthcare Centre.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Aprilwork\26\London Healthcare Centre\London Healthcare Centre\bin\Debug\netcoreapp2.1\London Healthcare Centre.dll
+C:\Users\HP\Desktop\Aprilwork\26\London Healthcare Centre\London Healthcare Centre\bin\Debug\netcoreapp2.1\London Healthcare Centre.pdb
+C:\Users\HP\Desktop\Aprilwork\26\London Healthcare Centre\London Healthcare Centre\obj\Debug\netcoreapp2.1\London Healthcare Centre.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\May Work\London Healthcare Centre\London Healthcare Centre\bin\Debug\netcoreapp2.1\London Healthcare Centre.deps.json
+C:\Users\HP\Desktop\May Work\London Healthcare Centre\London Healthcare Centre\bin\Debug\netcoreapp2.1\London Healthcare Centre.runtimeconfig.json
+C:\Users\HP\Desktop\May Work\London Healthcare Centre\London Healthcare Centre\bin\Debug\netcoreapp2.1\London Healthcare Centre.runtimeconfig.dev.json
+C:\Users\HP\Desktop\May Work\London Healthcare Centre\London Healthcare Centre\bin\Debug\netcoreapp2.1\London Healthcare Centre.dll
+C:\Users\HP\Desktop\May Work\London Healthcare Centre\London Healthcare Centre\bin\Debug\netcoreapp2.1\London Healthcare Centre.pdb
+C:\Users\HP\Desktop\May Work\London Healthcare Centre\London Healthcare Centre\obj\Debug\netcoreapp2.1\London Healthcare Centre.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\May Work\London Healthcare Centre\London Healthcare Centre\obj\Debug\netcoreapp2.1\London Healthcare Centre.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\May Work\London Healthcare Centre\London Healthcare Centre\obj\Debug\netcoreapp2.1\London Healthcare Centre.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\May Work\London Healthcare Centre\London Healthcare Centre\obj\Debug\netcoreapp2.1\London Healthcare Centre.AssemblyInfo.cs
+C:\Users\HP\Desktop\May Work\London Healthcare Centre\London Healthcare Centre\obj\Debug\netcoreapp2.1\London Healthcare Centre.dll
+C:\Users\HP\Desktop\May Work\London Healthcare Centre\London Healthcare Centre\obj\Debug\netcoreapp2.1\London Healthcare Centre.pdb

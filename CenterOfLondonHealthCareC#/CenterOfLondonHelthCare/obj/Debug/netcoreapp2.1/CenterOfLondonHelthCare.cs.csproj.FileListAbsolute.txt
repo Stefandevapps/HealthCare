@@ -1,0 +1,33 @@
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\GetRoomsToHealthCare\bin\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.deps.json
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\GetRoomsToHealthCare\bin\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.runtimeconfig.json
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\GetRoomsToHealthCare\bin\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.runtimeconfig.dev.json
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\GetRoomsToHealthCare\bin\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.dll
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\GetRoomsToHealthCare\bin\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.pdb
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\GetRoomsToHealthCare\obj\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\GetRoomsToHealthCare\obj\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\GetRoomsToHealthCare\obj\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\GetRoomsToHealthCare\obj\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.AssemblyInfo.cs
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\GetRoomsToHealthCare\obj\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.dll
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\GetRoomsToHealthCare\obj\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.pdb
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\CenterOfLondonHelthCare\bin\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.deps.json
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\CenterOfLondonHelthCare\bin\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.runtimeconfig.json
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\CenterOfLondonHelthCare\bin\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.runtimeconfig.dev.json
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\CenterOfLondonHelthCare\bin\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.dll
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\CenterOfLondonHelthCare\bin\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.pdb
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\CenterOfLondonHelthCare\obj\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\CenterOfLondonHelthCare\obj\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\CenterOfLondonHelthCare\obj\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\CenterOfLondonHelthCare\obj\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.AssemblyInfo.cs
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\CenterOfLondonHelthCare\obj\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.dll
+C:\Users\HP\Desktop\May Work\7\GetRoomsToHealthCare\CenterOfLondonHelthCare\obj\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.pdb
+F:\LOCUS RAGS\2019\May\21st May\CenterOfLondonHelthCare\CenterOfLondonHelthCare\bin\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.deps.json
+F:\LOCUS RAGS\2019\May\21st May\CenterOfLondonHelthCare\CenterOfLondonHelthCare\bin\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.runtimeconfig.json
+F:\LOCUS RAGS\2019\May\21st May\CenterOfLondonHelthCare\CenterOfLondonHelthCare\bin\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.runtimeconfig.dev.json
+F:\LOCUS RAGS\2019\May\21st May\CenterOfLondonHelthCare\CenterOfLondonHelthCare\bin\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.dll
+F:\LOCUS RAGS\2019\May\21st May\CenterOfLondonHelthCare\CenterOfLondonHelthCare\bin\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.pdb
+F:\LOCUS RAGS\2019\May\21st May\CenterOfLondonHelthCare\CenterOfLondonHelthCare\obj\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.csprojAssemblyReference.cache
+F:\LOCUS RAGS\2019\May\21st May\CenterOfLondonHelthCare\CenterOfLondonHelthCare\obj\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.csproj.CoreCompileInputs.cache
+F:\LOCUS RAGS\2019\May\21st May\CenterOfLondonHelthCare\CenterOfLondonHelthCare\obj\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.AssemblyInfoInputs.cache
+F:\LOCUS RAGS\2019\May\21st May\CenterOfLondonHelthCare\CenterOfLondonHelthCare\obj\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.AssemblyInfo.cs
+F:\LOCUS RAGS\2019\May\21st May\CenterOfLondonHelthCare\CenterOfLondonHelthCare\obj\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.dll
+F:\LOCUS RAGS\2019\May\21st May\CenterOfLondonHelthCare\CenterOfLondonHelthCare\obj\Debug\netcoreapp2.1\CenterOfLondonHelthCare.cs.pdb
